@@ -45,3 +45,6 @@ desktop.ini
 *.ilk
 *.aps
 *.pch
+
+# CLang
+.clang-format
