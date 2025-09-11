@@ -21,7 +21,7 @@ int main() {
 
   for (int i = 0; i < N; i++) cin >> numbers[i];
 
-  bubbleSort(numbers, N);
+  bubbleSortCounter(numbers, N);
 
   return 0;
 }
